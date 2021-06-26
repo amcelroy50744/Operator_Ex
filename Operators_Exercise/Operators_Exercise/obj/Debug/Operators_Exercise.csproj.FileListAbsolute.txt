@@ -1,0 +1,7 @@
+C:\Users\amcel\source\repos\Operators_Exercise\Operators_Exercise\obj\Debug\Operators_Exercise.csproj.AssemblyReference.cache
+C:\Users\amcel\source\repos\Operators_Exercise\Operators_Exercise\obj\Debug\Operators_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\amcel\source\repos\Operators_Exercise\Operators_Exercise\bin\Debug\Operators_Exercise.exe.config
+C:\Users\amcel\source\repos\Operators_Exercise\Operators_Exercise\bin\Debug\Operators_Exercise.exe
+C:\Users\amcel\source\repos\Operators_Exercise\Operators_Exercise\bin\Debug\Operators_Exercise.pdb
+C:\Users\amcel\source\repos\Operators_Exercise\Operators_Exercise\obj\Debug\Operators_Exercise.exe
+C:\Users\amcel\source\repos\Operators_Exercise\Operators_Exercise\obj\Debug\Operators_Exercise.pdb
